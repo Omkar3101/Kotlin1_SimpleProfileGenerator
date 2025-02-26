@@ -28,7 +28,7 @@ https://github.com/Omkar3101/Kotlin1_SimpleProfileGenerator.git
 
 ### Enter Credentials
 * Enter **Email**, **Name** and **Age** when prompted.
-* The system will validate your credentials.
+* The system will generate your profile.
 
 ## Code Overview
 
