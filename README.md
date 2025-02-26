@@ -58,7 +58,7 @@ fun main() {
 * Build a **GUI version** for a better user experience.
 
 ## License
-
+This project is licensed under the [MIT License](https://github.com/Omkar3101/Kotlin1_SimpleProfileGenerator/blob/main/LICENSE) - feel free to use and modify it.
 
 ## Let's Connect 
 * Linkedin : https://www.linkedin.com/in/omkar3101
