@@ -16,7 +16,7 @@ A beginner-friendly Kotlin project that generates a basic **user profile** based
 
 ## How to Run the Project?
 ### Clone the Repository
-
+https://github.com/Omkar3101/Kotlin1_SimpleProfileGenerator.git
 
 ### Open in IntelliJ IDEA
 * Open IntelliJ IDEA
